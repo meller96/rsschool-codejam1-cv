@@ -77,7 +77,8 @@ h2 {
 .content {
     background-color: #c9f7f7;
     width: 735px;
-    margin-right: 38pxpx;
+    text-decoration: none;
+
 }
 .content p{
     font-size: 20px;
@@ -91,7 +92,7 @@ h2 {
     margin-left: 214px;
 }
 .skills p {
-    margin-left: 290px;
+    margin-left: 204px;
 }
 .contact p {
     margin-left: 243px;
